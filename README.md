@@ -2,7 +2,7 @@
 
 **`Backend Developer`**
 
-👨‍💻 Athalla Barka Fadhil | Backend Developer 🚀
+👨‍💻 Athalla Barka Fadhil | Backend Developer 🚀 
 
 Information Technology major at Institut Teknologi Sepuluh Nopember (ITS) | Passionate about crafting robust and scalable backend solutions.
 
