@@ -26,3 +26,5 @@ Information Technology major at Institut Teknologi Sepuluh Nopember (ITS) | Pass
 ### 📊 Stats
 
 ![Athallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=athallabf&show_icons=true&theme=gruvbox)
+
+![snake gif](https://github.com/athallabf/athallabf/blob/output/github-contribution-grid-snake.gif)
