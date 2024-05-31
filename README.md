@@ -28,7 +28,8 @@ Information Technology major at Institut Teknologi Sepuluh Nopember (ITS) | Pass
 ![Athallas's GitHub stats](https://github-readme-stats.vercel.app/api?username=athallabf&show_icons=true&theme=gruvbox)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
 </picture>
+
