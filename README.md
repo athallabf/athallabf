@@ -1,20 +1,18 @@
-
-
 # Athalla Barka Fadhil
 
 ## 👨‍💻 Backend Developer | Fullstack Enthusiast
 
-Information Technology major at Institut Teknologi Sepuluh Nopember (ITS)
+**Information Technology major at Institut Teknologi Sepuluh Nopember (ITS)**
 
 ### 🚀 About Me
 
-Passionate about crafting robust and scalable backend solutions. I thrive on the challenges of software development and am constantly expanding my skill set to stay at the forefront of technology.
+Hey there! I'm Athalla, and I love creating robust and scalable backend solutions. I'm passionate about software development and enjoy learning new technologies to keep up with the ever-evolving tech landscape.
 
 ### 🛠️ Current Focus
 
-- **Backend Development**: Diving deep into NestJS and Golang to architect powerful server-side applications.
-- **Fullstack Experience**: Currently contributing to Barunastra Roboboat ITS as a Fullstack Developer, working with NextJS and integrating ROS with frontend systems.
-- **DevOps Interest**: Exploring the DevOps ecosystem to enhance my understanding of the full software development lifecycle.
+- **Backend Development**: I'm diving deep into **NestJS** and **Golang** to build powerful server-side applications.
+- **Fullstack Experience**: Right now, I'm working with the awesome team at Barunastra Roboboat ITS as a Fullstack Developer, using **NextJS** and integrating **ROS** with frontend systems.
+- **DevOps Interest**: I'm exploring the DevOps world to get a better understanding of the entire software development lifecycle.
 
 ### 💼 Skills & Interests
 
@@ -24,13 +22,13 @@ Passionate about crafting robust and scalable backend solutions. I thrive on the
 
 ### 🌱 Learning & Growth
 
-I'm dedicated to continuous improvement and staying updated with the latest trends in backend development and DevOps practices. Always open to learning new technologies that can enhance system performance and scalability.
+I'm committed to continuous improvement and always staying up-to-date with the latest trends in backend development and DevOps. I love learning new technologies that can boost system performance and scalability.
 
 ### 🤝 Let's Connect
 
-I'm excited about the future of backend development and always want to connect with like-minded professionals. Whether it's discussing the latest in NestJS, exploring Golang best practices, or chatting about DevOps strategies, I'm all ears!
+I'm really excited about the future of backend development and love connecting with other tech enthusiasts. Whether you want to chat about NestJS, Golang, DevOps, or just share ideas, feel free to reach out!
 
-<p>Feel free to reach out for collaborations, discussions, or just to say hi!</p>
+<p>I'm always up for collaborations, discussions, or just a friendly chat. Let's connect!</p>
 
 <p>
     <a href="https://www.linkedin.com/in/athalla-barka-fadhil/" target="_blank">
@@ -44,9 +42,7 @@ I'm excited about the future of backend development and always want to connect w
     </a>
 </p>
 
-
 ---
-
 
 ### 📊 Stats
 
@@ -62,10 +58,10 @@ I'm excited about the future of backend development and always want to connect w
   </a>
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
