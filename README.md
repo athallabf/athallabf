@@ -50,11 +50,17 @@ I'm excited about the future of backend development and always want to connect w
 
 ### 📊 Stats
 
-[![Athallas's Github stats](https://bad-apple-github-readme.vercel.app/api?username=athallabf&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
- 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
-
-[![Athalla's current streak](https://streak-stats.demolab.com/?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<div align="center">
+  <a href="#">
+    <img src="https://bad-apple-github-readme.vercel.app/api?username=athallabf&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Athallas's Github stats" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
+  </a>
+  <a href="#">
+    <img src="https://streak-stats.demolab.com/?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="Athalla's current streak" />
+  </a>
+</div>
 
 
 <picture>
