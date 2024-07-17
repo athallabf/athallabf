@@ -57,6 +57,7 @@ I'm really excited about the future of backend development and love connecting w
   </a>
   <a href="#">
     <img src="https://streak-stats.demolab.com/?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="Athalla's current streak" /> 
+     <img src="https://streak-stats.demolab.com/?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="streak" />
   </a>
 </div>
 
