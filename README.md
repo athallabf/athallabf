@@ -39,8 +39,8 @@ I'm really excited about the future of backend development and love connecting w
     <a href="https://www.instagram.com/athallabf/?next=%2F&hl=id" target="_blank">
         <img alt="Instagram profile" title="Follow my Instagram" src="https://img.shields.io/badge/-@athallabf-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
-    <a href="mailto:rakafadhil.rf@gmail.com" target="_blank">
-        <img alt="Mail profile" title="Send an email" src="https://img.shields.io/badge/-rakafadhil.rf@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+    <a href="mailto:athallabarka@gmail.com" target="_blank">
+        <img alt="Mail profile" title="Send an email" src="https://img.shields.io/badge/-athallabarka@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
     </a>
 </p>
 
