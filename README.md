@@ -8,14 +8,14 @@
 
 ### 🚀 About Me
 
-Hey there! I'm Athalla, and I love creating robust and scalable backend solutions. I'm passionate about software development and enjoy learning new technologies to keep up with the ever-evolving tech landscape.
+Hi, I'm Athalla. I focus on creating scalable backend systems and applying DevOps practices to improve automation, deployment, and reliability.
 
 ### 🛠️ Current Focus
 
-- **Backend Development**: I'm diving deep into **NestJS** and **Golang** to build powerful server-side applications.
-- **Fullstack Experience**: Right now, I'm working with the awesome team at Barunastra Roboboat ITS as a Fullstack Developer, using **NextJS** and integrating **ROS** with frontend systems.
-- **DevOps Interest**: I'm exploring the DevOps world to get a better understanding of the entire software development lifecycle.
-
+* **Backend Development**: Deepening my skills in **NestJS** and **Golang** to build reliable and scalable server-side applications.
+* **DevOps Practices**: Learning and applying **CI/CD, containerization, and cloud infrastructure** to streamline development and operations.
+* **Continuous Learning**: Exploring the broader software development lifecycle to bridge backend engineering with DevOps culture.
+* 
 ### 💼 Skills & Interests
 
 - **Languages & Frameworks**: NestJS, Golang, NextJS
@@ -45,6 +45,10 @@ I'm really excited about the future of backend development and love connecting w
 </p>
 
 ---
+
+<div align="center">    
+<a href="https://app.daily.dev/athl"><img src="https://api.daily.dev/devcards/v2/9DLJ7v2dJPagtwvj37XGp.png?type=wide&r=5mg" width="652" alt="Athalla Barka Fadhil's Dev Card"/></a>
+</div>
 
 ### 📊 Stats
 
