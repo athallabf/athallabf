@@ -21,7 +21,7 @@
 ### 🚀 About Me
 
 Hi, I'm Athalla. I focus on building reliable backend systems and scalable infrastructure.  
-Currently working as a Backend Developer Intern at **Avian**, a Part-time Backend Developer at **Moria Fund**, and Head Admin at **LAB SYNC (Smart City & Cybersecurity Laboratory)** at ITS.
+Currently working as a Software Engineer Intern at **Avian Brands**, a Part-time Backend Developer at **Moria Fund**, and Head Admin at **LAB SYNC (Smart City & Cybersecurity Laboratory)** at ITS.
 
 ---
 
