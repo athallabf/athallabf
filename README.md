@@ -1,68 +1,86 @@
 ![Lambang Wordmark ITS-Biru](https://github.com/user-attachments/assets/5c0ef49c-ccd5-4140-be56-6bc48583c322)
----
+
 # Athalla Barka Fadhil
 
-## 👨‍💻 Backend Developer | Fullstack Enthusiast
+## 👨‍💻 Backend & DevOps Developer
 
-**Information Technology major at Institut Teknologi Sepuluh Nopember (ITS)**
+**Information Technology Undergraduate at Institut Teknologi Sepuluh Nopember (ITS)**
+
+---
+
+<div align="center">
+
+### ⚡ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=go,nestjs,laravel,docker,kubernetes,terraform,ansible,linux,git,githubactions,mysql,postgres" />
+
+</div>
+
+---
 
 ### 🚀 About Me
 
-Hi, I'm Athalla. I focus on creating scalable backend systems and applying DevOps practices to improve automation, deployment, and reliability.
+Hi, I'm Athalla. I focus on building reliable backend systems and scalable infrastructure.  
+Currently working as a Backend Developer Intern at **Avian**, a Part-time Backend Developer at **Moria Fund**, and Head Admin at **LAB SYNC (Smart City & Cybersecurity Laboratory)** at ITS.
+
+---
 
 ### 🛠️ Current Focus
 
-* **Backend Development**: Deepening my skills in **NestJS** and **Golang** to build reliable and scalable server-side applications.
-* **DevOps Practices**: Learning and applying **CI/CD, containerization, and cloud infrastructure** to streamline development and operations.
-* **Continuous Learning**: Exploring the broader software development lifecycle to bridge backend engineering with DevOps culture.
-* 
-### 💼 Skills & Interests
+- **Backend Engineering**: scalable APIs and services using **Golang**, **NestJS**, and **Laravel**
+- **DevOps & Infrastructure**: automation and provisioning with **Terraform**, **Ansible**, **Docker**, and **Kubernetes**
+- **Networking**: studying for **CCNA** to strengthen real-world networking fundamentals
 
-- **Languages & Frameworks**: NestJS, Golang, NextJS
-- **Areas of Interest**: Backend Development, DevOps, System Architecture
-- **Soft Skills**: Problem-solving, Continuous Learning, Team Collaboration
+---
 
-### 🌱 Learning & Growth
+### 📌 Currently Building
 
-I'm committed to continuous improvement and always staying up-to-date with the latest trends in backend development and DevOps. I love learning new technologies that can boost system performance and scalability.
+- Production-grade backend services with clean modular architecture (**NestJS / Go**)
+- Deployment automation pipelines and infrastructure provisioning (**Terraform + Ansible**)
+- Containerized environments for scalable deployments (**Docker + Kubernetes**)
 
-### 🤝 Let's Connect
+---
 
-I'm really excited about the future of backend development and love connecting with other tech enthusiasts. Whether you want to chat about NestJS, Golang, DevOps, or just share ideas, feel free to reach out!
+### 💼 Interests
 
-<p>I'm always up for collaborations, discussions, or just a friendly chat. Let's connect!</p>
+- Distributed Systems & System Architecture  
+- Infrastructure Engineering & Automation  
+- Networking, Monitoring, and Reliability  
+
+---
+
+### 🤝 Connect With Me
 
 <p>
-    <a href="https://www.linkedin.com/in/athalla-barka-fadhil/" target="_blank">
-        <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />
-    </a>
-    <a href="https://www.instagram.com/athallabf/?next=%2F&hl=id" target="_blank">
-        <img alt="Instagram profile" title="Follow my Instagram" src="https://img.shields.io/badge/-@athallabf-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-    </a>
-    <a href="mailto:athallabarka@gmail.com" target="_blank">
-        <img alt="Mail profile" title="Send an email" src="https://img.shields.io/badge/-athallabarka@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-    </a>
+  <a href="https://www.linkedin.com/in/athalla-barka-fadhil/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/athallabf/?next=%2F&hl=id" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/-@athallabf-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:athallabarka@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/-athallabarka@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<div align="center">    
-<a href="https://app.daily.dev/athl"><img src="https://api.daily.dev/devcards/v2/9DLJ7v2dJPagtwvj37XGp.png?type=wide&r=5mg" width="652" alt="Athalla Barka Fadhil's Dev Card"/></a>
-</div>
-
-### 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="#">
-    <img src="https://bad-apple-github-readme.vercel.app/api?username=athallabf&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="Athallas's Github stats" />
+  <a href="https://tokscale.ai/u/athallabf">
+    <img src="https://tokscale.ai/api/embed/athallabf/svg?view=3d" alt="Tokscale Stats" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
-  </a>
-<a href="#">
-    <img src="https://streak-stats.demolab.com?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak" />
-</a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak" />
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake-dark.svg">
@@ -71,3 +89,9 @@ I'm really excited about the future of backend development and love connecting w
 </picture>
 
 ---
+
+<div align="center">
+  <a href="https://app.daily.dev/athl">
+    <img src="https://api.daily.dev/devcards/v2/9DLJ7v2dJPagtwvj37XGp.png?type=wide&r=5mg" width="652" alt="Athalla Barka Fadhil's Dev Card"/>
+  </a>
+</div>
