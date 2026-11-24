@@ -59,3 +59,11 @@ Kubernetes and Ansible, plus CCNA-level networking.
 <div align="center">
   <a href="https://github.com/athallabf"><img height="150" alt="Top languages" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" /></a>
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
+</picture>
