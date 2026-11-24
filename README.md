@@ -59,21 +59,14 @@ Kubernetes and Ansible, plus CCNA-level networking.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
-  <img src="https://streak-stats.demolab.com?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=athallabf&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://streak-stats.demolab.com?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athallabf&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=athallabf&theme=radical&no-frame=true&row=1&column=4" alt="GitHub trophies" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=athallabf&theme=radical&hide_border=true&layout=compact" alt="WakaTime stats" />
+  <img height="160" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
 </div>
 
 ---
