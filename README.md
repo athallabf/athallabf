@@ -42,14 +42,6 @@ I keep production systems secure, observable and fast, and I write the backend c
 **Security & networking:** Cloudflare Tunnel, Tailscale, CrowdSec, UFW, Fail2Ban  
 **Backend:** NestJS, Laravel, Gin (Go), PostgreSQL, MySQL, Redis, MinIO
 
-## Selected public repos
-
-<!-- Replace each line with a one-line description and make sure each repo has a README. -->
-- [`gcp-terraform`](https://github.com/athallabf/gcp-terraform): GCP infrastructure with Terraform
-- [`agent-infra`](https://github.com/athallabf/agent-infra)
-- [`rakitcode-devops`](https://github.com/athallabf/rakitcode-devops)
-- [`laravel-best-practices`](https://github.com/athallabf/laravel-best-practices)
-
 ## Currently learning
 
 Kubernetes and Ansible, plus CCNA-level networking.
@@ -76,6 +68,12 @@ Kubernetes and Ansible, plus CCNA-level networking.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=athallabf&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
   <img src="https://github-profile-trophy.vercel.app/?username=athallabf&theme=radical&no-frame=true&row=1&column=4" alt="GitHub trophies" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=athallabf&theme=radical&hide_border=true&layout=compact" alt="WakaTime stats" />
 </div>
 
 ---
