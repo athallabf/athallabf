@@ -56,8 +56,26 @@ Kubernetes and Ansible, plus CCNA-level networking.
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/athallabf"><img height="150" alt="Top languages" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" /></a>
+  <a href="https://tokscale.ai/u/athallabf">
+    <img src="https://tokscale.ai/api/embed/athallabf/svg?view=3d" alt="Tokscale Stats" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=athallabf&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=athallabf&count_private=true&theme=blue-green&title_color=00b3ff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=athallabf&show_icons=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=athallabf&theme=radical&no-frame=true&row=1&column=4" alt="GitHub trophies" />
 </div>
 
 ---
@@ -67,3 +85,11 @@ Kubernetes and Ansible, plus CCNA-level networking.
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/athallabf/athallabf/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+<div align="center">
+  <a href="https://app.daily.dev/athl">
+    <img src="https://api.daily.dev/devcards/v2/9DLJ7v2dJPagtwvj37XGp.png?type=wide&r=5mg" width="652" alt="Athalla Barka Fadhil's Dev Card"/>
+  </a>
+</div>
